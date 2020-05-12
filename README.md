@@ -23,7 +23,7 @@
 	</div>
 	<div class="case-img2">
 <div id="fig1"; style="display: none">
-		<img src="images/winky-ok.png" alt="winky"></div>
+		<img src="winky-ok.png" alt="winky"></div>
 	</div>
 	<div class="case-img3">
 <div id="fig2"; style="display: none">
