@@ -1,0 +1,419 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	cursor:default;
+	background-color: black
+}
+
+a{
+	color: white;
+}
+
+pre{
+	font-family: "Neue Machina";
+}
+
+sup{
+	color: black;
+}
+
+.grid-container1{
+		z-index: 2;
+        display: grid;
+        grid-template-columns: auto auto auto auto auto auto;
+        font-family:"DejaVu Sans Mono";
+		font-size:17px;
+		color:white;
+		background-color: black;
+		width: 100%;
+		height: 3em;
+		position: fixed;
+		top: 0; right: 0;left: 0;
+		text-align: center;
+		cursor:default;
+		text-decoration: underline;
+		
+}
+
+    .grid-itemA{
+		margin-top: 0.8em;
+    }
+    .grid-itemB{
+		margin-top: 0.8em;
+    }
+    .grid-itemC{
+		margin-top: 0.8em;
+    }
+	.grid-itemD{
+		margin-top: 0.8em;
+    }
+	.grid-itemE{
+		margin-top: 0.8em;
+    }
+	.grid-itemF{
+		margin-top: 0.8em;
+    }
+
+	.case-img1{
+		margin-left: 35%;
+		position: absolute;
+		margin-top: 20%;
+		
+}
+	.case-img2{
+		margin-left: 55%;
+		position: absolute;
+		margin-top: 25%;
+}
+	.case-img3{
+		margin-left: 55%;
+		position: absolute;
+		margin-top: 20%;
+}
+	.case-img4{
+		margin-left: 40%;
+		position: absolute;
+		margin-top: 15%;
+}
+	.case-img5{
+		margin-left: 45%;
+		position: absolute;
+		margin-top: 10%;
+}
+	.case-img6{
+		margin-left: 2%;
+		position: absolute;
+		margin-top: 10%;
+}
+	.case-img7{
+		margin-left: 65%;
+		position: absolute;
+		margin-top: 23%;
+}
+
+	.titre{
+		z-index: 1;
+		font-family:"Neue Machina";
+		font-size: 180px;
+		text-align: center;
+		padding-top: 100px;
+		cursor:default;
+		color:blue;
+}
+	.titre:hover{
+		color: white;
+}
+	.bleu{
+		color: blue;
+}
+	.magenta{
+		color: magenta;
+}
+	.cyan{
+		color: blue;
+		text-decoration: underline;
+		cursor: cell;
+		opacity: 80%;
+}
+	.cit{
+		margin-left: 4%;
+		font-style: italic;
+		font-size: 16px;
+		line-height: 17px;
+}
+
+	.intro{
+		z-index: 0;
+		background-color: white;
+		position: absolute;
+		right:0;
+		margin-top: 10%;
+}
+	.intro1{
+		margin-right: 53%;
+		margin-left: 6%;
+		padding-top: 7%;
+		color: black;
+		text-align:left;
+		font-family:"Neue Machina";
+		font-size: 16px;
+		cursor:default;
+}
+	.chapitre1{
+		margin-right: 53%;
+		margin-left: 6%;
+		padding-top: 7%;
+		color:black;
+		text-align: left;
+		font-family:'Neue Machina';
+		font-size: 16px;
+		cursor:default;
+}
+	.chapitre2{
+		margin-right: 53%;
+		margin-left: 6%;
+		padding-top: 7%;
+		color:black;
+		text-align: left;
+		font-family:'Neue Machina';
+		font-size: 16px;
+		cursor:default;
+}
+	.chapitre3{
+		margin-right: 53%;
+		margin-left: 6%;
+		padding-top: 7%;
+		color:black;
+		text-align: left;
+		font-family:'Neue Machina';
+		font-size: 16px;
+		cursor:default;
+}
+	.conclusion{
+		margin-right: 53%;
+		margin-left: 6%;
+		padding-top: 7%;
+		color:black;
+		text-align: left;
+		font-family:'Neue Machina';
+		font-size: 16px;
+		cursor:default;
+}
+	.mediagraphie{
+		margin-right: 53%;
+		margin-left: 6%;
+		padding-top: 7%;
+		color:black;
+		text-align: left;
+		font-family:'Neue Machina';
+		font-size: 16px;
+		cursor:default;
+}
+	.remerciements{
+		margin-right: 53%;
+		margin-left: 6%;
+		padding-top: 7%;
+		color:black;
+		text-align: left;
+		font-family:'Neue Machina';
+		font-size: 16px;
+		cursor:default;
+}
+
+	#fig {
+		position: fixed;
+  		z-index: 9;
+		cursor: move;
+}
+	#fig1 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig2 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig3 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig4 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig5 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig6 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig7 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig8 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig9 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig10 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig11 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig12 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig13 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig14 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig15 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig16 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig17 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig18 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig19 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig20 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig21 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig22 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig23 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig24 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig25 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig26 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig27 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig28 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig29 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig30 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig31 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig32 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig33 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig34 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig35 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig36 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig37 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig38 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig39 {
+		position: fixed;
+  		z-index: 9;
+		cursor: move; 
+}
+	#fig40 {
+		position: absolute;
+  		z-index: 1;
+		cursor: move; 
+}
+	#fig41 {
+		position: absolute;
+  		z-index: 1;
+		cursor: move; 
+}
+
+	img{
+		max-width: 420px;
+		height: auto;
+	
+}
