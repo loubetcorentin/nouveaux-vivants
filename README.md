@@ -27,163 +27,163 @@
 	</div>
 	<div class="case-img3">
 <div id="fig2"; style="display: none">
-		<img src="images/cutii-2-ok.png" alt="cutii"></div>
+		<img src="cutii-2-ok.png" alt="cutii"></div>
 	</div>
 	<div class="case-img4">
 <div id="fig3"; style="display: none">
-		<img src="images/HER-2-ok.png" alt="HER-2"></div>
+		<img src="HER-2-ok.png" alt="HER-2"></div>
 	</div>
 	<div class="case-img5">
 <div id="fig4"; style="display: none">
-		<img src="images/Domnhall Gleeson-2.png" alt="Domnhall Gleeson-2"></div>
+		<img src="Domnhall Gleeson-2.png" alt="Domnhall Gleeson-2"></div>
 	</div>
 	<div class="case-img1">
 <div id="fig5"; style="display: none">
-		<img src="images/Domnhall Gleeson-1.png" alt="Domnhall Gleeson-1"></div>
+		<img src="Domnhall Gleeson-1.png" alt="Domnhall Gleeson-1"></div>
 	</div>
 	<div class="case-img2">
 <div id="fig6"; style="display: none">
-		<img src="images/MBC-ok.png" alt="MBC"></div>
+		<img src="MBC-ok.png" alt="MBC"></div>
 	</div>
 	<div class="case-img3">
 <div id="fig7"; style="display: none">
-		<img src="images/ex-machina-2-ok.png" alt="ex-machina"></div>
+		<img src="ex-machina-2-ok.png" alt="ex-machina"></div>
 	</div>
 	<div class="case-img4">
 <div id="fig8"; style="display: none">
-		<img src="images/mori-ok.png" alt="vallée dérangeante"></div>
+		<img src="mori-ok.png" alt="vallée dérangeante"></div>
 	</div>
 	<div class="case-img5">
 <div id="fig9"; style="display: none">
-		<img src="images/ishiguro-ok.png" alt="geminoide"></div>
+		<img src="ishiguro-ok.png" alt="geminoide"></div>
 	</div>
 	<div class="case-img1">
 <div id="fig10"; style="display: none">
-		<img src="images/cutii-3-ok.png" alt="cutii2"></div>
+		<img src="cutii-3-ok.png" alt="cutii2"></div>
 	</div>
 	<div class="case-img2">
 <div id="fig11"; style="display: none">
-		<img src="images/baby x-institut-2-ok.png" alt="baby-x"></div>
+		<img src="baby x-institut-2-ok.png" alt="baby-x"></div>
 	</div>
 	<div class="case-img5">
 <div id="fig12"; style="display: none">
-		<img src="images/baby x-institut-ok.png" alt="baby-x2"></div>
+		<img src="baby x-institut-ok.png" alt="baby-x2"></div>
 	</div>
 	<div class="case-img4">
 <div id="fig13"; style="display: none">
-		<img src="images/sayonara-2-ok.png" alt="sayonara"></div>
+		<img src="sayonara-2-ok.png" alt="sayonara"></div>
 	</div>
 	<div class="case-img5">
 <div id="fig14"; style="display: none">
-		<img src="images/sayonara-ok.png" alt="geminoide-f"></div>
+		<img src="sayonara-ok.png" alt="geminoide-f"></div>
 	</div>
 	<div class="case-img1">
 <div id="fig15"; style="display: none">
-		<img src="images/NWLXC-ok.png" alt="new-wife-lovely"></div>
+		<img src="NWLXC-ok.png" alt="new-wife-lovely"></div>
 	</div>
 	<div class="case-img2">
 <div id="fig16"; style="display: none">
-		<img src="images/sexbot-2-ok.png" alt="sexbot"></div>
+		<img src="sexbot-2-ok.png" alt="sexbot"></div>
 	</div>
 	<div class="case-img5">
 <div id="fig17"; style="display: none">
-		<img src="images/sexbot-ok.png" alt="sexbot2"></div>
+		<img src="sexbot-ok.png" alt="sexbot2"></div>
 	</div>
 	<div class="case-img4">
 <div id="fig18"; style="display: none">
-		<img src="images/HER-ok.png" alt="her"></div>
+		<img src="HER-ok.png" alt="her"></div>
 	</div>
 	<div class="case-img5">
 <div id="fig19"; style="display: none">
-		<img src="images/siri-ok.png" alt="siri"></div>
+		<img src="siri-ok.png" alt="siri"></div>
 	</div>
 	<div class="case-img1">
 <div id="fig20"; style="display: none">
-		<img src="images/amazon-ok.png" alt="amazon-echo"></div>
+		<img src="amazon-ok.png" alt="amazon-echo"></div>
 	</div>
 	<div class="case-img2">
 <div id="fig21"; style="display: none">
-		<img src="images/xiaoice-ok.png" alt="xiaoice"></div>
+		<img src="xiaoice-ok.png" alt="xiaoice"></div>
 	</div>
 	<div class="case-img3">
 <div id="fig22"; style="display: none">
-		<img src="images/xerox-ok.png" alt="xerox"></div>
+		<img src="xerox-ok.png" alt="xerox"></div>
 	</div>
 	<div class="case-img4">
 <div id="fig23"; style="display: none">
-		<img src="images/mother-ok.png" alt="mother"></div>
+		<img src="mother-ok.png" alt="mother"></div>
 	</div>
 	<div class="case-img1">
 <div id="fig24"; style="display: none">
-		<img src="images/mother-2-ok.png" alt="mother2"></div>
+		<img src="mother-2-ok.png" alt="mother2"></div>
 	</div>
 	<div class="case-img5">
 <div id="fig25"; style="display: none">
-		<img src="images/pesi-ok.png" alt="roomy"></div>
+		<img src="pesi-ok.png" alt="roomy"></div>
 	</div>
 	<div class="case-img1">
 <div id="fig26"; style="display: none">
-		<img src="images/rubber-ok.png" alt="rubber"></div>
+		<img src="rubber-ok.png" alt="rubber"></div>
 	</div>
 	<div class="case-img2">
 <div id="fig27"; style="display: none">
-		<img src="images/rubber-2-ok.png" alt="rubber2"></div>
+		<img src="rubber-2-ok.png" alt="rubber2"></div>
 	</div>
 	<div class="case-img3">
 <div id="fig28"; style="display: none">
-		<img src="images/toran-ok.png" alt="noam-toran"></div>
+		<img src="toran-ok.png" alt="noam-toran"></div>
 	</div>
 	<div class="case-img4">
 <div id="fig29"; style="display: none">
-		<img src="images/l'avion-ok.png" alt="avion"></div>
+		<img src="l'avion-ok.png" alt="avion"></div>
 	</div>
 	<div class="case-img5">
 <div id="fig30"; style="display: none">
-		<img src="images/ensadlab-2-ok.png" alt="ensadlab"></div>
+		<img src="ensadlab-2-ok.png" alt="ensadlab"></div>
 	</div>
 	<div class="case-img1">
 <div id="fig31"; style="display: none">
-		<img src="images/ensadlab-ok.png" alt="ensadlab2"></div>
+		<img src="ensadlab-ok.png" alt="ensadlab2"></div>
 	</div>
 	<div class="case-img2">
 <div id="fig32"; style="display: none">
-		<img src="images/dunne et raby-2-ok.png" alt="robot"></div>
+		<img src="dunne et raby-2-ok.png" alt="robot"></div>
 	</div>
 	<div class="case-img4">
 <div id="fig33"; style="display: none">
-		<img src="images/dunne et raby-3-ok.png" alt="robot2"></div>
+		<img src="dunne et raby-3-ok.png" alt="robot2"></div>
 	</div>
 	<div class="case-img3">
 <div id="fig34"; style="display: none">
-		<img src="images/soomi park-2-ok.png" alt="soomi"></div>
+		<img src="soomi park-2-ok.png" alt="soomi"></div>
 	</div>
 	<div class="case-img5">
 <div id="fig35"; style="display: none">
-		<img src="images/soomi park-ok.png" alt="soomi2"></div>
+		<img src="soomi park-ok.png" alt="soomi2"></div>
 	</div>
 	<div class="case-img1">
 <div id="fig36"; style="display: none">
-		<img src="images/pince-ok.png" alt="pince"></div>
+		<img src="pince-ok.png" alt="pince"></div>
 	</div>
 	<div class="case-img2">
 <div id="fig37"; style="display: none">
-		<img src="images/boston dynamics-ok.png" alt="boston-dynamics"></div>
+		<img src="boston dynamics-ok.png" alt="boston-dynamics"></div>
 	</div>
 	<div class="case-img3">
 <div id="fig38"; style="display: none">
-		<img src="images/db-ok.png" alt="db"></div>
+		<img src="db-ok.png" alt="db"></div>
 	</div>
 	<div class="case-img4">
 <div id="fig39"; style="display: none">
-		<img src="images/db-2-ok.png" alt="db2"></div>
+		<img src="db-2-ok.png" alt="db2"></div>
 	</div>
 	<div class="case-img6">
 <div id="fig40">
-		<img src="images/résumé.png" alt="résumé"></div>
+		<img src="résumé.png" alt="résumé"></div>
 	</div>
 	<div class="case-img7">
 <div id="fig41">
-		<img src="images/interactivité.png" alt="intéractivité"></div>
+		<img src="interactivité.png" alt="intéractivité"></div>
 	</div>
 	
 	<div class="titre">Nouveaux "Vivants"</div>
