@@ -191,6 +191,7 @@
 	<div class="intro" id="ici1">
 <div class="intro1">
 			<pre>
+		<span class="magenta">&lt;</span>!doctype HTML<span class="magenta">&gt;</span>
 	<span class="magenta">&lt;</span>Introduction<span class="magenta">&gt;</span>
 			</pre>
 <span class="magenta">/</span> En tout temps, des créateurs ont rêvé de concevoir un compagnon artificiel autonome.<br><br>
